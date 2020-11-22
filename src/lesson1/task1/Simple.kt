@@ -69,7 +69,6 @@ fun lengthInMeters(sagenes: Int, arshins: Int, vershoks: Int): Double {
     val metr = (smSagenes + smArshins + smVershoks)/100
     return metr
 }
-
 /**
  * Тривиальная
  *
